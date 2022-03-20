@@ -9,6 +9,10 @@
     "web": "expo start --web",
     "eject": "expo eject"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:OoNeal/MoviesAndMe.git"
+  },
   "dependencies": {
     "expo": "~44.0.0",
     "expo-status-bar": "~1.2.0",
